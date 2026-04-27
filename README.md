@@ -114,5 +114,5 @@ For production deployments, ensure the host (e.g. Vercel) includes these headers
 Cross-Origin-Opener-Policy: same-origin
 Cross-Origin-Embedder-Policy: credentialless
 ```
-*(DocuMentor achieves this out-of-the-box via `vercel.json`).*
+
 
